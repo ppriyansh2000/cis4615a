@@ -1,3 +1,4 @@
 # cis4615a
 
-Hi My name is Priyansh Patel and This is Assignment 2 from CIS 4615
+Class CIS 4615a
+How to use Github version control features (Pull, Push and Merge)
